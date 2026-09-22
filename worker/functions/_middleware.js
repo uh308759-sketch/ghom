@@ -15,7 +15,7 @@ export default {
     <title>Welcome</title>
     <meta property="og:title" content="💢 💢 💢 💢">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://um-cdn.flipboard.com/ye76muwjPe11Nsp_5tMmoQ/uploads/web-flip/76b6639b8dbd873daa588050e534da8362bad124.jpeg">
+    <meta property="og:image" content="https://share.google/htLVdRecF9WajtrEp">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
